@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="W3BHub - AI-powered automation for eCommerce and digital brands. Daily social posting, content generation, and more—all on autopilot." />
+  <title>W3BHub - AI Automation for Your Business</title>
+  <link rel="icon" href="/favicon.ico" />
+</head>
+<body>
+  <main>
+    <h1>W3BHub - Welcome to the Future of Automation</h1>
+    <p>Your launch-ready website is coming alive 🚀</p>
+    <a href="/privacy">Privacy Policy</a>
+  </main>
+
+  <footer>
+    <p>Contact: <a href="mailto:w3bhub2@gmail.com">w3bhub2@gmail.com</a></p>
+    <p><a href="https://wa.me/918123894565" target="_blank">Chat with us on WhatsApp</a></p>
+    <p>Powered by W3BHub AI</p>
+  </footer>
+</body>
+</html>

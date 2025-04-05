@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacy Policy - W3BHub</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>This is the privacy policy for W3BHub. We value your privacy and do not share personal information with third parties.</p>
+  <p>Contact: <a href="mailto:w3bhub2@gmail.com">w3bhub2@gmail.com</a></p>
+</body>
+</html>
+
+
